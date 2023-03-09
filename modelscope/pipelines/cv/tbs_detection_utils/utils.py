@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 import torch
 import torch.nn as nn
-from io import BytestIO
+from io import BytesIO
 from matplotlib import pyplot as plt
 from PIL import Image
 from torchvision.ops.boxes import batched_nms, nms
